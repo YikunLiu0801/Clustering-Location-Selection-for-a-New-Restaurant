@@ -5,6 +5,30 @@ A client is looking for a good neighborhood to open a new restaurant in the city
 ## Data Sources
 1. A webpage containing basic neighborhood information of Toronto
 https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_M
+
+The extracted data will have 3 columns:
+- Postal Code
+- Borough
+- Neighborhood
+
 2. Coordinates of these neighborhoods from Google API
-3. Restaurants' categories and ratings around these neighborhoods from Foursquare API
+
+The refined data will have 5 columns:
+- Postal Code
+- Borough
+- Neighborhood
+- Latitude
+- Longitude
+
+3. Venues' categories around these neighborhoods from Foursquare API
+
+The final data will have 8 columns:
+- Postal Code
+- Borough
+- Neighborhood
+- Latitude
+- Longitude
+- Restaurant Counts
+- Restaurant Diversity
+- Cluster
 
