@@ -1,4 +1,4 @@
-# Neighborhood Selection for a New Restaurant
+# [Clustering] Location Selection for a New Restaurant
 ## Introduction
 In this project we will try to find an optimal location for a restaurant. Specifically, this report will be targeted to stakeholders interested in opening a __restaurant__ in the city of __Toronto__. This project helps this client to analyze neighborhoods and find good ones for a new restaurant with __kmeans__ clustering method in Python. The best neighborhood is selected based on the numbers, the diveristy, and the distance to the city center of the existing restaurants in this neighborhood. A neighborhood close to city center with medium number of low-diversity restaurants will be identified as a promising business opportunity.
 
