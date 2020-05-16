@@ -11,7 +11,7 @@ The extracted data will have 3 columns:
 - Borough
 - Neighborhood
 
-2. Coordinates of these neighborhoods from __Google Place API__
+2. Coordinates of these neighborhoods from File 'Geospatial_Coordinates.csv'
 
 The refined data will have 5 columns:
 - Postal Code
