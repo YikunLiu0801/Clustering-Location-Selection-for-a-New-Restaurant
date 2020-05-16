@@ -6,13 +6,13 @@ In this project we will try to find an optimal location for a restaurant. Specif
 1. A __webpage__ containing basic neighborhood information of Toronto
 https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_M
 
-The extracted data will have 3 columns:
+The extracted data will have 2 columns:
 - Postal Code
 - Borough
 
 2. Coordinates of these neighborhoods from File 'Geospatial_Coordinates.csv'
 
-The refined data will have 5 columns:
+The refined data will have 4 columns:
 - Postal Code
 - Borough
 - Latitude
@@ -20,7 +20,7 @@ The refined data will have 5 columns:
 
 3. Venues' categories around these neighborhoods from __Foursquare API__
 
-The final data will have 9 columns:
+The final data will have 8 columns:
 - Postal Code
 - Borough
 - Latitude
